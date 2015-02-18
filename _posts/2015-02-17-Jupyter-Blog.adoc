@@ -1,0 +1,7 @@
+= Jupyter Blog 
+
+This is a test to use [hubpress.io](adress) as a blog engine for the Jupyter.org blog. 
+
+For now it uses *asciidoc* as a  _format_ to write blog post, but I suppose it can be use with markdown once the full sourcecode is released. 
+
+Anyway, just to see how this look. And as this updates code, we can do proper PR and reviews.
